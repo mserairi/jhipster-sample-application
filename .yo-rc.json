@@ -42,7 +42,9 @@
     "jwtSecretKey": "MTQ2ZWIzZDY5YWQyNDJhOWRmZjRlYmUyZjZhMTk0NDQ5Yjg5M2ZlNmIxYTVmZWFmNzkzMzgxNGM4ZjQ2ODIzNDVjYTA0MjhhZGZmNDYyNmFiNzFjOTk2NjBkNGEyYWY1ZjljODczMmFlZGFhYzE5MTAxMjc2ZmRjYTkyYWUwMzA=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1618265504000
   },
   "git-provider": "GitHub",
   "git-company": "mserairi",
